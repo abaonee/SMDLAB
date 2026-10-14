@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "uz.ttpu.weatherpatterns"
+    namespace = "uz.ttpu.framephases"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "uz.ttpu.weatherpatterns"
+        applicationId = "uz.ttpu.framephases"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
